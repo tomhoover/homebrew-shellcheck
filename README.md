@@ -1,10 +1,10 @@
-# Tomhoover Shellcheck
+# tomhoover/shellcheck
 
 ## How do I install these formulae?
 
-`brew install tomhoover/shellcheck/<formula>`
+`brew install tomhoover/shellcheck/shellcheck@0.8.0`
 
-Or `brew tap tomhoover/shellcheck` and then `brew install <formula>`.
+Or `brew tap tomhoover/shellcheck` and then `brew install shellcheck@0.8.0`.
 
 ## Documentation
 
